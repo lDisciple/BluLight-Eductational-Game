@@ -1,0 +1,22 @@
+Freefall is a highly involved physics based game that requires a high level knowledge of equations of motions and the ability to apply them quickly.
+
+You will be given a falling box and you will able to adjust its velocity as it falls. The goal of the game is to get the box through a hole below the box. The gap is very small and requires extreme precision.
+
+You start the game on the 'Game' screen where a box will begin falling and stop.
+Two textboxes will appear that you can enter a magnitude and direction which you can the select as your desired direction or magnitude with the adjacent buttons.
+
+The box will then continue to fall with the new velocity added. If the box falls through the hole then you will get a point, if not you lose.
+If you are able to get the box through the hole within 2 minute 30 seconds then you get 2 points.
+
+You are given the displacements of the block to the target hole and the velocities of the block to allow you to calculate the magnitude and direction.
+
+Good luck!
+
+Other screens:
+
+Drawing pad: Allows you to draw on the screen to help with equations.
+
+Calculator: Provides an in-game calculator to assist in calculating the magnitude and direction.
+
+Formulae: The formulae screen provides all the formulae that are available from research to help you with the game.
+

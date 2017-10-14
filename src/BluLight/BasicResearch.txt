@@ -1,0 +1,64 @@
+74E6E225267C                BluLight    Equation of motion 1¿
+a = (Vf–Vi)/t¿
+This equation is used to calculate the components of motion of an object where 3 of the following are known:
+Acceleration (a)
+Final velocity (Vf)
+Initial velocity (Vi)
+Change in time (t)
+¿
+5.0¿
+1¿§
+74E6E225267C                BluLight    Equation of motion 2¿
+Vav = ( [Vf+Vi] / 2 )x t¿
+This equation is used to calculate the components of motion of an object where 3 of the following are known:
+Average velocity (Vav)
+Final velocity (Vf)
+Initial velocity (Vi)
+Change in time (t)¿
+5.0¿
+1¿§
+74E6E225267C                BluLight    Equation of motion 3¿
+disp = ( [Vf + Vi] /2) x t¿
+This equation is used to calculate the components of motion of an object where 3 of the following are known:
+Displacement (disp) [ Change in position ]
+Final velocity (Vf)
+Initial velocity (Vi)
+Change in time (t)¿
+5.0¿
+1¿§
+74E6E225267C                BluLight    Equation of motion 4¿
+Vf^2 = Vi^2 + 2 x a x disp¿
+This equation is used to calculate the components of motion of an object where 3 of the following are known:
+Acceleration (a)
+Final velocity (Vf)
+Initial velocity (Vi)
+Displacement (disp) [ Change in position ]¿
+5.0¿
+1¿§
+74E6E225267C                BluLight    Equation of motion 5¿
+disp = Vi x t + 0.5a x t^2¿
+This equation is used to calculate the components of motion of an object where 3 of the following are known:
+Acceleration (a)
+Initial velocity (Vi)
+Change in time (t)
+Displacement (disp) [ Change in position ]¿
+5.0¿
+1¿§
+74E6E225267C                BluLight              Refraction¿
+ ni x sin(i) = nr x sin(r)¿
+Refraction is the bending of light when a wave travels from a less dense medium to a more dense medium.
+
+Snells law is used to calculate the change in direction (degrees) of refracted light.
+
+Where:
+ni = The refrative index of the medium that the wave enters from.
+i = the angle of the incident wave to the component perpindicular to the plane of refraction.
+nr = The refrative index of the medium that the wave enters.
+r = the angle of the refracted wave to the component perpindicular to the plane of refraction.¿
+5.0¿
+1¿§
+74E6E225267C                BluLight                Ohms law¿
+V = IR¿
+This is the most basic formula in circuitry where the Voltage (V) is equal to the product of the Current (I) and Resistance (R) of the circuit.¿
+5.0¿
+1¿§

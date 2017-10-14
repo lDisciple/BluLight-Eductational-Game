@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Oct 27 21:20:24 CAT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0150-aabe-7b9b-000006ed1ba8 
+on database directory C:\Users\Public\BluLightDB  with class loader sun.misc.Launcher$AppClassLoader@60e53b93 
+Loaded from file:/C:/Program%20Files%20(x86)/Java/jdk1.7.0_25/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b18
+user.dir=F:\BluLight
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

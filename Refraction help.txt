@@ -1,0 +1,20 @@
+Refraction is a game based highly on trial-and-error and teaching the basics of circuits and light refraction.
+
+You will begin with a single refractive index at your disposal: Vacuum. You must use the circuit game to unlock more indices to bend the path of light on the 'game' screen before time runs out.
+
+In the circuit game you are given a circuit and a target current that you must reach in order to unlock one more refractive index. An active wire is light gray and an inactive wire is dark gray.
+
+When you have unlocked enogh indices yo can go back to the 'game' screen and click on the layers to change their refractive index to one that you have unlocked.
+
+You must bend the light from your starting point to the end point on the bottom of the screen.
+
+Good luck!
+
+Other screens:
+
+Drawing pad: Allows you to draw on the screen to help with equations.
+
+Calculator: Provides an in-game calculator to assist in calculating the magnitude and direction.
+
+Formulae: The formulae screen provides all the formulae that are available from research to help you with the game.
+

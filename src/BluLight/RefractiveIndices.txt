@@ -1,0 +1,27 @@
+Vacuum;1.0
+Acetic Acid;1.37
+ethanol;1.36
+methanol;1.33
+Aniline;1.586
+Benzene;1.501
+Carbon disulfide;1.63
+Chloroform;1.44
+Decane;1.41
+Ether;1.35
+Refrigerant(F);1.29
+Glycerol;1.47
+Heptane;1.38
+Milk;1.35
+Octane;1.40
+Olive oil;1.46
+Paraffin;1.48
+Propane;1.34
+Turpentine;1.47
+Water;1.333
+Carbon dioxide;1.00045
+Amber;1.55
+Polycarbonate;1.60
+Sapphire;1.778
+Lumicera;2.082
+Hi­Lite;1.70
+Teslalid;1.71

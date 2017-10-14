@@ -1,0 +1,10 @@
+Welcome to BluLight!
+
+Instructions:
+Freefall: Freefall is a calculation heavy game that tests your ability to apply equations quickly and effectively.
+Refraction: Refraction is a trial-and-error based game that teaches you the basics of light refraction and circuitry.
+Research: Research is the method of viewing all your acquired research.
+
+Bugs:
+-Pathfinding for circuit game is not accurate to real life circuitry although it does display uniformity that allows the game to operate efficiently still.
+-Only works with Windows
